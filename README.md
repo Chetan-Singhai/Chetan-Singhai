@@ -28,19 +28,15 @@
 
 - 👯 I’m looking to collaborate with some enthusiastic person
 
-- 📫 How to reach me **rahulchaurasia@gmail.com**
+- 📫 How to reach me **@chetankunarjaingmail.com**
 
 - 🎯 Goals: earn in dollar 💰 / live in a cold place ❄
 
 - ⚡ Fun fact **I am Funny**
 <br><br>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100069084803407) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/____itz_rahul____/) 
+## 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Chetan-Singhai-97072b208/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahulchaurasiadabra)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/4Chaurasiya)
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
